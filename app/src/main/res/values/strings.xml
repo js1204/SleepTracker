@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SleepTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="Quality">Quality</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+</resources>
